@@ -1,0 +1,19 @@
+anchor: Ayudas
+size: lg
+rows:
+- type: columns
+  design:
+    num: 8
+    align_x: space-between
+  items:
+  - span: 5
+    description: |
+      Proyecto financiado por la Consejería de Empresa, Empleo, Universidades y Portavocía; y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER)
+
+      Programa de apoyo a las empresas innovadoras con potencial tecnológico y escalables
+
+      N° DE EXPEDIENTE: 2022.08.EPTE.000051
+    more:
+      align: left
+  - span: 2
+    image: ayudas-info.png

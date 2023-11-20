@@ -1,0 +1,47 @@
+logo: logo-horizontal.svg
+color: white
+screen_sticky: 1300
+size_sticky: ''
+articles_sticky: false
+transparent: true
+hide_anchors: false
+hide_icons: true
+show_modals: true
+show_blog_auto: true
+show_products_auto: true
+show_taxonomies_auto: false
+search: true
+google_translate: false
+langs_in_more: false
+langs_out: true
+callnow_active: true
+callnow_buttons: []
+normal:
+- link: /#bienvenido
+  label: Bienvenido
+- link: /#servicios
+  label: Nuestros servicios
+- link: /#solucion
+  label: Nuestra solución
+  items:
+  - link: /#beneficios
+    label: Beneficios
+  - link: /#aplicaciones
+    label: Aplicaciones
+  - link: /#proceso
+    label: Nuestro proceso
+  - link: /#casos
+    label: Casos de éxito
+- link: /#equipo
+  label: Equipo
+- link: /#galeria
+  label: Galería
+# - link: /#me-interesa
+#   label: Me interesa
+# - link: /#faqs
+#   label: FAQs
+- link: /#contacto
+  label: Me interesa
+  # label: Contacto
+  button: link
+more: []

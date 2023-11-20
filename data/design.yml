@@ -1,0 +1,71 @@
+icons:
+  type: solid
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: true
+  base:
+    family: Rajdhani
+    italic: false
+    line-height: 1.25
+    weight: 500
+    strong: 0
+  cursive:
+    family: Rajdhani
+    weight: 500
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  title:
+    family: Rajdhani
+    italic: false
+    line-height: 1.25
+    weight: 700
+    strong: 0
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#05ab9e'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  alt:
+    color: '#fff'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  link:
+    color: '#951b81'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: .25
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: true
+  deep: false
+  outline: false
+  font_base: false
+shadow:
+  left: 0
+  top: 0
+  blur: 0
+  color: black
+  opacity: 0.25
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: true
+  parallax: false
+  srcsetx2: true

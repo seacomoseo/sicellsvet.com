@@ -1,0 +1,32 @@
+baseURL: https://sicellsvet.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/sicells/sicellsvet.com
+  netlify_name: sicells
+  netlify_id: 9b65cebe-ec36-42f2-8354-dc787575a3b1
+  drive_link: https://drive.google.com/file/d/1kEJtfmGOhbCIpYVrGtV2OyqS_LBal600
+  drive_mails: jigchinchilla@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

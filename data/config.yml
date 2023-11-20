@@ -1,0 +1,40 @@
+title: Sicells ® Terapia con Células Madre para Veterinara
+description: Desarrollo y comercialización de tratamientos de Terapia Celular, basados en células madre, para pacientes veterinarios (perros, gatos y caballos).
+logo: logo.svg
+legal_name: Sicells - Veterinary Biotechnology Sl.
+legal_dni: B16861833
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- ''
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-C8TJH9QXSR
+google_site_verification: UNuGud2IIsVXQtsESGyPVaC3aMufOaQSSZ3VluGb-x4
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.linkedin.com/company/sicells-veterinary-biotechnology/
+- link: https://www.instagram.com/sicells_vetbiotech/
+- link: https://www.youtube.com/@sicells3670
+

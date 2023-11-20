@@ -1,0 +1,24 @@
+title: Bienvenido
+description: |
+  Somos una biofarmacéutica centrada en la investigación y el desarrollo de tratamientos avanzados elaborados con células madre.
+
+  Trabajamos de la mano con el médico veterinario y asesoramos a los propietarios de cualquier mascota que pueda necesitar nuestros tratamientos.
+
+  Aquí podrás encontrar toda la información sobre nosotros, nuestros servicios y nuestras soluciones biomédicas. 
+
+  Esperamos poder ayudarte.
+rows:
+- type: columns
+  items:
+  - title: Nuestra Misión
+    description: |
+      Mejorar la calidad de vida de nuestras mascotas, sus tutores y profesionales veterinarios, proporcionándoles esperanza en forma de nuevos tratamientos de última generación elaborados a  partir de células madre.
+      {.align-left}
+    more:
+      color: link
+  - title: Nuestra Visión
+    description: |
+      Innovación continuada a través del desarrollo de nuevos tratamientos celulares que devuelvan la esperanza cuando los tratamientos convencionales resultan ineficaces o insuficientes para el tratamiento de las enfermedades.
+      {.align-left}
+    more:
+      color: main

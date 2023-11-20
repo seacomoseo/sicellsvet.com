@@ -1,0 +1,29 @@
+title: Beneficios
+description: |
+  Así es como nuestra solución puede ayudar...
+  {.h4}
+rows:
+- type: columns
+  design:
+    link: '#contacto'
+    label: Me interesa
+    licon: none
+  items:
+  - title: '... a tu mascota'
+    icon: beneficios-mascota
+    description: |
+      - icon-check Estarás aportando a tu mascota un tratamiento de última generación.
+      - icon-check Estarás apostando por una mejora en la calidad de vida de tu mascota.
+      - icon-check Estarás evitando posibles efectos adversos secundarios en tu mascota.
+      - icon-check Estarás aplicando un tratamiento con beneficios de larga duración para tu mascota.
+    more:
+      color: link
+  - title: '... a tu clínica veterinaria'
+    icon: beneficios-clinica
+    description: |
+      - icon-check Estarás ofreciendo a tus pacientes un tratamiento de última generación.
+      - icon-check Estarás diferenciándote de otros centros de la competencia que no  tienen acceso a estas técnicas médicas.
+      - icon-check Estarás fidelizando a tus clientes al evitar remisiones a otros centros que ofrezcan estos tratamientos.
+      - icon-check Estarás aumentando tu facturación al ofrecer estos tratamientos y servicios.
+    more:
+      color: main

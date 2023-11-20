@@ -1,0 +1,34 @@
+id: casos
+title: Casos de éxito
+description: |
+  Estos son algunos pacientes a los que hemos devuelto la esperanza ayudando a mejorar su calidad de vida.
+  {.h4}
+rows:
+- type: columns
+  design:
+    num: 1
+    uppercase: true
+    border: main
+  items:
+  - title: 'Caso nº1: **Gingivoestomatitis crónica felina**'
+    description: |
+      El tratamiento convencional de esta patología es complejo y diverso, siendo la opción de elección la realización de la extracción de las piezas dentales afectadas en combinación con la administración de antibióticos, analgésicos e inmunosupresores o inmunomoduladores por vía oral. Sin embargo, algunos casos no responden a estos tratamientos, como en el caso de nuestra paciente, siendo necesaria la búsqueda de nuevas alternativas terapeúticas.
+
+      ![](caso-1-gingivoestomatitis-cronica-felina.jpg)
+
+      Esta paciente presentaba inflamación, exceso de salivación y dolor bucal con presencia de úlceras en la mucosa oral consecuencia de un proceso de gingivoestomatitis crónica felina (imagen izquierda).
+
+      A la derecha, podemos observar el resultado después de una única aplicación de nuestra solución SICELLS en tan solo 45 días post-administración, observándose una mejoría clínica con una disminución de la salivación y de las áreas inflamadas de la boca, además de un aumento del peso y mejora del aspecto físico.
+
+      [btn-main Más detalle](caso-1-gingivoestomatitis-cronica-felina-detalles.jpg)
+  - title: 'Caso nº2: **Queratoconjuntivitis seca (QSC) canina**'
+    description: |
+      El tratamiento convencional para esta enfermedad implica la administración de varios colirios oculares cada 2-3h durante toda la vida del paciente, variando su administración según el grado y la severidad de la patología.
+
+      ![](caso-2-queratoconjuntivitis-seca-qsc-canina.jpg)
+
+      Este paciente padecía queratoconjuntivitis seca, también conocida como ojo seco, donde se observa una producción lagrimal muy disminuida (Test Schirmer entre 0 y 1 mm en ambos ojos) que le provocaba la aparición continuada de legañas (descarga ocular verdosa), depósitos de pigmento, presencia de vasos sanguíneos e incluso úlceras corneales por la ausencia de lágrimas (imagen izquierda).
+
+      A la derecha, podemos observar el resultado después de una única aplicación de nuestra solución SICELLS en tan solo 45 días post-administración, observándose una mejoría clínica con una disminución de la producción de legañas, reducción de las áreas pigmentadas y el número de vasos sanguíneos con ausencia de úlceras corneales y sobre todo, un aumento considerable de la producción lagrimal evaluado mediante el Test Schirmer con una producción entre 7-8 mm en ambos ojos.
+
+      [btn-main Más detalle](caso-2-queratoconjuntivitis-seca-qsc-canina-detalles.jpg)

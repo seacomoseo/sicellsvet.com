@@ -1,0 +1,31 @@
+id: servicios
+title: Nuestros servicios
+anchor: Servicios
+description: |
+  Nuestra solución te ayuda cuando el tratamiento convencional para tu paciente o mascota resulta...
+  {.h4}
+rows:
+- type: columns
+  design:
+    num: 4
+    align_x: space-around
+    uppercase: true
+  items:
+  - title: Ineficaz
+    description: |
+      El tratamiento tradicional no surte efecto o no existe un tratamiento para tú caso.
+  - title: Insuficiente
+    description: |
+      El tratamiento tradicional surte efecto, pero cada vez menos (tolerancia).
+  - title: Inapropiado
+    description: |
+      El tratamiento tradicional surte efecto, pero tiene efectos no deseados (tóxico).
+  - span: 3
+    link: '#contacto'
+    label: Otros servicios adicionales
+    description: |
+      O si desconoces, por la presencia de enfermedades concomitantes, si podría beneficiarse de estos nuevos tratamientos.
+      {.h4}
+    more:
+      licon: none
+      button: main

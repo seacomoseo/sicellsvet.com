@@ -1,0 +1,23 @@
+title: Galería
+rows:
+- type: gallery
+  design:
+    max: null
+    num: 4
+    alt: false
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - galeria-01-cultivo-celulas-madre.jpg
+  - galeria-02-cultivo-celulas-madre.jpg
+  - galeria-03-cultivo-celulas-madre.jpg
+  - galeria-04-cultivo-celulas-madre.jpg
+  - galeria-05-cultivo-celulas-madre.jpg
+  - galeria-06-cultivo-celulas-madre.jpg
+  - galeria-07-cultivo-celulas-madre.jpg
+  - galeria-08-cultivo-celulas-madre.jpg
+  - galeria-09-cultivo-celulas-madre.jpg
+  - galeria-10-cultivo-celulas-madre.jpg
+  - galeria-11-cultivo-celulas-madre.jpg

@@ -1,0 +1,41 @@
+id: proceso
+title: Nuestro proceso
+anchor: Proceso
+description: |
+  Te contamos cómo obtenemos nuestro tratamiento
+  {.h4}
+rows:
+- type: columns
+  design:
+    num: 8
+    align_x: space-around
+    align_y: center
+    uppercase: true
+  items:
+  - span: 3
+    image: proceso-jeringa.svg
+    more:
+      ratio: 9x16
+  - span: 5
+    description: |
+      <h3 class="h5 uppercase"><i class="proceso-ol">1</i> Estudio previo del paciente y envío del material a tu clínica</h3>
+
+      Una vez contactas con nosotros, realizamos un estudio exhaustivo de las enfermedades presentes en tu paciente o mascota para determinar si es susceptible de ser tratado con células madre. Solo te ofreceremos nuestros tratamientos únicamente cuando estén realmente indicados.
+
+      <h3 class="h5 uppercase"><i class="proceso-ol">2</i> Extracción de la muestra y envío a laboratorio para su procesamiento</h3>
+
+      Tras recibir nuestro kit en su clínica, el profesional veterinario procederá a la extracción de un explante de grasa del paciente, la introducirá en el mismo y avisará para proceder a su recogida en el propio centro.
+
+      Esta se enviará al laboratorio para su recepción en un plazo "máximo de 24h", realizando el procesado de la muestra en cabinas de bioseguridad biológica.
+
+      <h3 class="h5 uppercase"><i class="proceso-ol">3</i> Elaboración del tratamiento y envío a clínica para su administración</h3>
+
+      Una vez en el laboratorio se procede  a la elaboración del tratamiento mediante técnicas de cultivos celulares hasta obtener el número suficientes de células para la realización del tratamiento.
+
+      Por último se planifica el procedimiento y pautas de administración del tratamiento elaborado, enviándose a la clínica veterinaria para su administración bajo la supervisión del profesional veterinario.
+    more:
+      align: left
+  - span: 8
+    description: |
+      [btn En perros](proceso-celulas-madre-perros.png)
+      [btn-main En gatos](proceso-celulas-madre-gatos.png)

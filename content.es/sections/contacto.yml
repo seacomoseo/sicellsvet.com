@@ -1,0 +1,65 @@
+id: contacto
+title: ¿Te interesa nuestra solución?
+anchor: Contacto
+size: sm
+description: |
+  Ahora que ya nos conoces y sabes de la existencia de nuestros tratamientos, cómo funcionan, sus beneficios y sus aplicaciones;  quizás estes interesado en contactar con nosotros e informarte  acerca de las opciones que podemos ofrecerte.  
+
+  Solo tienes que rellenar este formulario con tus datos personales y nos pondremos en contacto contigo lo antes posible.
+more:
+  align: center
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: De 8:00 a 20:00
+  - type: br
+  - type: phone
+    label: +34 868 888 497
+  - type: phone
+    label: +34 615 16 00 05
+  - type: whatsapp
+    button: link
+    label: +34 615 16 00 05
+  - type: mail
+    label: info@sicellsvet.com
+  - type: address
+    active: false
+    name: '' # Campus de la Salud de El Palmar
+    streetAddress: Avenida Buenavista, s/n
+    postalCode: 30120
+    addressLocality: El Palmar
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1624818,37.9292645]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      placeholder: Nombre y apellidos
+      required: true
+    - type: radio
+      name: Soy
+      required: true
+      options:
+      - option: Soy propietario
+      - option: Soy veterinario
+    - type: email
+      name: Email
+      placeholder: Correo electrónico
+      required: true
+    - type: tel
+      name: Teléfono
+      required: true
+    - type: textarea
+      name: Mensaje
+      placeholder: ¿Cómo podemos ayudarte?
+      required: true
+  map:
+    active: false
+    link: https://maps.google.es/maps?q=Avenida%20Buenavista,%20s/n,%2030120%20El%20Palmar,%20Murcia
+    iframe: ''
+    flip_x: false
+    divider: ''

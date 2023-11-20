@@ -1,0 +1,65 @@
+id: construccion
+color: dark
+image: logo-blanco.svg
+bg: fondo.jpg
+more:
+  image_min: 18
+  image_max: 15
+  parallax: false
+  divider: ''
+rows:
+- type: columns
+  items:
+  - title: Terapias celulares <br> al servicio veterinario
+    description: |
+      Damos esperanza cambiando la medicina veterinaria a través de la investigación y el desarrollo de tratamientos elaborados con células madre.
+
+      Trabajamos de la mano con el médico veterinaria y asesoramos a los propietarios de cualquier mascota que pueda necesitar nuestros tratamientos.
+
+      Rellena este formulario y nos pondremos en contacto contigo cuanto antes.
+
+      <button class="button--icon light" data-b="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvc2ljZWxscy12ZXRlcmluYXJ5LWJpb3RlY2hub2xvZ3kv" title="Síguenos en Linkedin"><svg><use xlink:href="/draws.svg#linkedin-in"></use></svg></button>
+      <i class="tel" data-h="dGVsOiszNDYxNTE2MDAwNQ==">+34 615 16 00 05</i>
+    more:
+      align: left
+- type: contact
+  form:
+    fill_inputs: true
+    items:
+    - type: h3
+      name: Contacta con nosotros
+    - type: text
+      name: Nombre
+      placeholder: Nombre y apellidos (Campo obligatorio)
+      required: true
+      full: true
+    - type: email
+      name: Email
+      placeholder: Correo electrónico (Campo obligatorio)
+      required: true
+      full: true
+    - type: tel
+      name: Telefono
+      placeholder: Teléfono (Campo obligatorio)
+      required: true
+      full: true
+    - type: textarea
+      name: Mensaje
+      placeholder: ¿Cómo podemos ayudarte?
+- type: columns
+  design:
+    num: 8
+    align_x: space-between
+  items:
+  - span: 5
+    description: |
+      Proyecto financiado por la Consejería de Empresa, Empleo, Universidades y Portavocía; y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER)
+
+      Programa de apoyo a las empresas innovadoras con potencial tecnológico y escalables
+
+      N° DE EXPEDIENTE: 2022.08.EPTE.000051
+    more:
+      align: left
+      color: white
+  - span: 2
+    image: ayudas-info.png

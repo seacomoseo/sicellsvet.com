@@ -1,0 +1,54 @@
+title: Aplicaciones
+description: |
+  Las células madre pueden aplicarse para el tratamiento de enfermedades crónicas de tipo inflamatorio y/o con afectación del sistema inmune, pudiendo utilizarse en patologías:
+  {.h4}
+rows:
+- type: columns
+  design:
+    num: 3
+    num_xs: true
+    align_x: space-around
+    uppercase: true
+  items:
+  - title: Musculo&shy;esqueléticas
+    icon: aplicaciones-musculoesqueleticas
+    description: |
+      Osteoartrítis \
+      Tendinopatías \
+      Fracturas
+  - title: Cutáneas
+    icon: aplicaciones-cutaneas
+    description: |
+      Dermatitis atópica \
+      Cicatrización \
+      Heridas
+  - title: Gastrointestinales
+    icon: aplicaciones-gastrointestinales
+    description: |
+      Fístulas \
+      Enfermedad Inflamatoria \
+      Intestinal (IBD)
+  - title: Oculares
+    icon: aplicaciones-oculares
+    description: |
+      Queratoconjuntivitis \
+      Úlceras corneales
+  - title: Nerviosas
+    icon: aplicaciones-nerviosas
+    description: |
+      Meningoencefalitis \
+      Hernias discales
+  - title: Bucodentales
+    icon: aplicaciones-bucodentales
+    description: |
+      Gingivoestomatitis
+  - title: Sistémicas
+    icon: aplicaciones-sistemicas
+    description: |
+      Leishmania \
+      Diabetes \
+      Enfermedades renales
+  - span: 3
+    description: |
+      ...aunque cada día surgen nuevos estudios que apoyan su utilización en otros patologías.
+      {.h4}

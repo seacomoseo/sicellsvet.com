@@ -1,0 +1,23 @@
+anchor: Terapias con Células Madre para Veterinara
+color: dark
+image: logo-blanco.svg
+bg: fondo.jpg
+description: |
+  Terapia celular al servicio veterinario
+  {.h1}
+
+  ¡Dando esperanza, cambiando junto a ti la medicina veterinaria!
+
+  [btn Propietarios](#contacto)
+  [btn-main Veterinarios](#contacto)
+more:
+  image_min: 18
+  parallax: true
+rows:
+- type: columns
+  items:
+  - description: |
+      [info@sicellsvet.com](mailto:info@sicellsvet.com "nofollow")
+      [+34 615 16 00 05](tel:+34615160005 "nofollow")
+      [btn-sm CONTACTO](#contacto)
+      [btn-icon icon-linkedin-in Linkedin](https://www.linkedin.com/company/sicells-veterinary-biotechnology/ "nofollow")

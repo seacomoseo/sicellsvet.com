@@ -1,0 +1,27 @@
+id: solucion
+title: Nuestra solución
+anchor: Solución
+description: |
+  Está especialmente indicada para el tratamiento de enfermedades crónicas de tipo inflamatorio y/o inmunológica en pacientes veterinarios que no responden a los tratamientos convencionales.
+rows:
+- type: columns
+  design:
+    num: 4
+    align_x: space-around
+    uppercase: true
+  items:
+  - title: Es personalizada
+    icon: solucion-personalizada
+    description: |
+      Adaptamos nuestro tratamiento, su posología y forma de administración a cada paciente y patología específicamente.
+  - title: Es segura
+    icon: solucion-segura
+    description: |
+      Utilizamos células madre del propio paciente (autólogas) evitando así su rechazo y posibles reacciones adversas.
+  - title: Es duradera
+    icon: solucion-duradera
+    description: |
+      Presenta efectos biológicos antiinflamatorios e inmunomoduladores de acción prolongada durante varios meses y/o años.
+  - span: 3
+    description: |
+      Ofrecemos un servicio integral y personalizado de terapia celular basado en tratamientos biológicos altamente innovadores elaborados a partir de células madre.

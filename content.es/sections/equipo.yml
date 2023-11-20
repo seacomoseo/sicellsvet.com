@@ -1,0 +1,25 @@
+id: equipo
+title: Nuestro equipo
+anchor: Equipo
+description: |
+  Nuestro equipo cuenta con profesionales con más de 10 años de experiencia en el campo de las terapias avanzadas para medicina veterinaria y humana. ¡Conócenos un poco más!
+rows:
+- type: columns
+  design:
+    num: 3
+    align_x: space-around
+    ratio: circle
+    border: main
+  items:
+  - title: Jesús I. Gil Chinchilla
+    image: equipo-jesus-gil-chinchilla.png
+    description: |
+      [btn Más información](#jesus-gil-chinchilla)
+
+      [btn-icon icon-linkedin-in Linkedin](https://www.linkedin.com/in/jigchinchilla/ "nofollow")
+  - title: David García Bernal
+    image: equipo-david-garcia-bernal.png
+    description: |
+      [btn Más información](#david-garcia-bernal)
+
+      [btn-icon icon-linkedin-in Linkedin](https://www.linkedin.com/in/david-garc%C3%ADa-bernal-427b1947/ "nofollow")
