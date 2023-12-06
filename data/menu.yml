@@ -3,7 +3,7 @@ color: white
 screen_sticky: 1300
 size_sticky: ''
 articles_sticky: false
-transparent: true
+transparent: false
 hide_anchors: false
 hide_icons: true
 show_modals: true

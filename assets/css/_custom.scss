@@ -17,7 +17,7 @@
 
 #body-inicio #header {
   z-index: 10;
-  margin-top: 1.98em;
+  // margin-top: 1.98em;
   overflow: visible;
   [class*="container"] {
     position: static;
@@ -31,6 +31,7 @@
     top: 0;
     left: 0;
     width: 100%;
+    margin: 0;
     background-color: var(--link);
     transition: top .6s;
     z-index: 10;
@@ -50,9 +51,6 @@
       color: $white;
       --link: var(--main);
     }
-    .button--sm {
-      --link: var(--main);
-    }
     .button--icon {
       margin-left: auto;
       font-size: .66em;
@@ -62,16 +60,19 @@
   }
 }
 
+.body-menu--logo .logo {
+  top: 1.98em;
+}
 @media (min-width: 1300px) {
   .menu--sticky {
-    transition: margin-top .3s;
+    transition: top .3s;
   }
   .body-top {
     .menu--sticky {
-      margin-top: 1.98em;
-      --bg-color: #{ $white };
-      background-color: inherit;
-      filter: drop-shadow($shadow);
+      top: 1.98em;
+      // --bg-color: #{ $white };
+      // background-color: inherit;
+      // filter: drop-shadow($shadow);
       .menu__items {
         padding-top: 1em;
         padding-bottom: 1em;
@@ -85,7 +86,7 @@
     }
   }
   #body-inicio #header {
-    margin-top: 4.75em + 1.98;
+    // margin-top: 4.75em + 1.98;
     .rows {
       top: -1.98em * 2;
     }
@@ -93,7 +94,7 @@
 }
 #body-inicio {
   .menu__toggle {
-    top: .75em + 1.98;
+    top: .375em + 1.98;
   }
   // .menu__items > .menu__item:last-child {
   //   display: none;
@@ -403,7 +404,7 @@
     }
   }
 }
-#prefooter {
+#footer {
   --link: #{ $white };
   --link-text: #{ $dark };
   --bg-gradient: linear-gradient(var(--bg-gradient-color-0) 25%, var(--bg-gradient-color));
@@ -418,24 +419,10 @@
   .buttons {
     font-size: .75em;
   }
-}
-#body-inicio {
-  .footer {
-    background-color: $grey;
-  }
   .social--follow {
     display: none;
   }
-}
-.footer {
-  .footer__icon {
-    display: none;
+  .row--2 {
+    margin-block: 2em;
   }
-  .footer__item,
-  .footer__link {
-    color: $light;
-  }
-}
-.cookies {
-  color: $dark;
 }

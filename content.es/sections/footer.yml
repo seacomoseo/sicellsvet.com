@@ -1,7 +1,45 @@
-description: |
-  - icon-copyright      {{< internal-link index >}}
-  - icon-scale-balanced {{< internal-link legal >}}
-  - icon-shield-keyhole {{< internal-link privacy >}}
-  - icon-cookie-bite    {{< internal-link cookies >}}
-  - icon-seacomoseo     {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
-  {.list-inline}
+color: black
+gradient: grey
+size: md
+more:
+  gradient_type: linear-b
+  padding_top: 5
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    align_y: top
+  items:
+  - span: 2
+    image: logo-blanco.svg
+    more:
+      ratio: 18x6
+  - description: |
+      - [Bienvenido](/#bienvenido)
+      - [Nuestros servicios](/#servicios)
+      - [Nuestra solución](/#solucion)
+      - [Equipo](/#equipo)
+      - [Galería](/#galeria)
+      - [Me interesa](/#me-interesa)
+    more:
+      align: left
+  - description: |
+      - [info@sicellsvet.com](mailto:info@sicellsvet.com "nofollow")
+      - [+34 615 16 00 05](tel:+34615160005 "nofollow")
+
+      [btn-icon icon-linkedin-in Linkedin ](https://www.linkedin.com/company/sicells-veterinary-biotechnology/ "nofollow")
+      [btn-icon icon-instagram   Instagram](https://www.instagram.com/sicells_vetbiotech/ "nofollow")
+      [btn-icon icon-youtube     Youtube  ](https://www.youtube.com/@sicells3670 "nofollow")
+    more:
+      align: right
+- type: columns
+  items:
+  - description: |
+      - {{< internal-link index >}}
+      - {{< internal-link legal >}}
+      - {{< internal-link privacy >}}
+      - {{< internal-link cookies >}}
+      - {{< i18n web-design >}} J. Campos
+      - Desrrollo Web [seacomoseo.com](https://seacomoseo.com/)
+      {.list-inline}

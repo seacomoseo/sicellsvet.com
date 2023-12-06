@@ -28,5 +28,4 @@ sections:
 - file: galeria
 - file: contacto
 - file: ayudas
-- file: prefooter
 ---
